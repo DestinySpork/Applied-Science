@@ -1,0 +1,23 @@
+
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "appliedautomation:analyzer"
+  },
+  "variants": {
+  
+	"facing" : {
+		"north" : {"model" : "appliedautomation:analyzer"},
+		"south" : {"model":  "appliedautomation:analyzer"},
+		"east" : {"model":  "appliedautomation:analyzer"},
+		"west" : {"model":  "appliedautomation:analyzer"},
+		"up" : {"model":  "appliedautomation:analyzer"},
+		"down" : {"model":  "appliedautomation:analyzer"}
+	},
+	
+    "north": { "model": "appliedautomation:analyzer" },
+    "inventory": [{
+      "transform": "forge:default-block"
+    }]
+  }
+}

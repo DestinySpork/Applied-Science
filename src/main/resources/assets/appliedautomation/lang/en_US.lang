@@ -1,0 +1,9 @@
+item.analyzer.name=Analyzer
+item.flint_pick.name=Flint Pickaxe
+
+tile.copper_ore.name=Copper Ore
+tile.tin_ore.name=Tin Ore
+tile.lead_ore.name=Lead Ore
+tile.titanium_ore.name=Titanium Ore
+tile.silver_ore.name=Silver Ore
+tile.aluminium_ore.name=Bauxite

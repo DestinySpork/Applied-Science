@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "appliedautomation:blocks/ModelTest.b3d" },
+		"north" : { "model": "appliedautomation:blocks/ModelTest.b3d" },
+		"south" : { "model": "appliedautomation:blocks/ModelTest.b3d" },
+		"east"  : { "model": "appliedautomation:blocks/ModelTest.b3d" },
+		"west"  : { "model": "appliedautomation:blocks/ModelTest.b3d" }
+    }
+}

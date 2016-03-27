@@ -1,0 +1,6 @@
+{
+    "parent":"appliedautomation:item/standard_item",
+    "textures": {
+        "layer0":"appliedautomation:items/flint_pickaxe"
+    }
+}
